@@ -23,6 +23,7 @@ Key pair = EC2Docker (and then click create new key pair and download the pair t
     ![EC2-Shell Prompt](https://github.com/vmk81/Launch-an-EC2-Instance/assets/157844406/657f10d7-b6f3-445b-b523-5dd09701854a)
 
 7.	On your desktop, open a power shell prompt and navigate to the folder where the keypair was downloaded from step 2. Then type the ssh command using the key pair like in the screenshot below. This will let you log into the EC2 instance using ssh.  
-    ![12-ssh](https://github.com/vmk81/Launch-an-EC2-Instance/assets/157844406/10fc52ed-8b24-4770-9a63-19069a58261c)
+    ![12-ssh](https://github.com/vmk81/Launch-an-EC2-Instance/assets/157844406/e2753bb1-50f9-46f2-8777-33410665e73a)
+
 
         
